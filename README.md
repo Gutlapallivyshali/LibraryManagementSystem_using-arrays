@@ -1,8 +1,8 @@
-# 📚 Library Management System (Using Arrays)
+#  Library Management System (Using Arrays)
 
 A simple Java console-based project that demonstrates basic array concepts by implementing a Library Management System.
 
-## 🚀 Features
+# Features
 
 * Add new books
 * Display all books
@@ -10,19 +10,19 @@ A simple Java console-based project that demonstrates basic array concepts by im
 * Issue a book
 * Return a book
 
-## 🧠 Concepts Used
+# Concepts Used
 
 * Arrays
 * Loops
 * Conditional statements
 * Linear search
 
-## ▶️ How to Run
+# How to Run
 
 1. Download or clone the repository.
 2. Compile the Java file.
 3. Run the program using any Java IDE or terminal.
 
-## 📌 Purpose
+# Purpose
 
 This project was created to practice and understand basic array operations in Java through a real-world example.
